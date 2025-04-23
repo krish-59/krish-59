@@ -20,7 +20,7 @@ I'm a software developer passionate about solving real-world problems through co
 ### 🧠 Tech Toolbox
 
 ```text
-Languages      → JavaScript, TypeScript, Python, Java
+Languages      → JavaScript, TypeScript, Python
 Backend        → NodeJS, NestJS, REST APIs, Firebase Functions, Kafka
 Frontend       → ReactJS (casual), HTML/CSS
 Databases      → PostgreSQL, MongoDB, Firestore, MySQL
